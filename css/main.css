@@ -74,23 +74,33 @@ body {
     ALL: Orange Theme
    =================== */
 
-.header-container {
-    border-bottom: 20px solid #e44d26;
+.header-container{
+    height:509px;
+    background:url(../img/header-bg.jpg) no-repeat center top;
+    background-size: cover;
+    text-align:center;
+}
+.nav-container {
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    /*border-top: 20px solid #8bb1c4;*/
 }
 
-.header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #8bb1c4;
+    text-align:center;
 }
-
+.main aside div{
+    background:white;
+    padding:0px 5px 10px;
+    color:black;
+    margin-bottom:20px;
+}
 .title {
-    color: white;
+    color: #333;
 }
 
 /* ==============
@@ -112,7 +122,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    background: #555;
 }
 
 nav a:hover,
@@ -138,7 +148,7 @@ nav a:hover {
 
 .main aside {
     color: white;
-    padding: 0px 5% 10px;
+    padding: 10px 5%;
 }
 
 .footer-container footer {
@@ -157,10 +167,41 @@ nav a:hover {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+p a,
+aside a{
+    color:#df6b5e;
+}
+.no-wrap{
+    white-space: nowrap;
+}
+a:hover{
+    text-decoration:none;
+}
+#logo{
+    width:321px;
+    padding:40px 0;
+}
+#logo + p{
+    max-width: 485px;
+    margin: auto;
+    color: white;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    font-weight: bold;
+    text-shadow: 0px 3px 10px rgba(0, 0, 0, 1);
+    letter-spacing: 0.01em;
 
-
-
-
+}
+#logo + p a{
+    color:#fdf0a9;
+}
+#donate{
+    color:black;
+    text-decoration: none;
+}
+#donate img{
+    width:100%;
+}
 
 
 
@@ -217,11 +258,7 @@ nav a:hover {
     WIDE: CSS3 Effects
    ==================== */
 
-    .header-container,
     .main aside {
-        -webkit-box-shadow: 0 5px 10px #aaa;
-           -moz-box-shadow: 0 5px 10px #aaa;
-                box-shadow: 0 5px 10px #aaa;
     }
 
 /* ============
@@ -391,4 +428,18 @@ nav a:hover {
     h3 {
         page-break-after: avoid;
     }
+}
+/* =============================================================================
+ *  For retina display images
+ * ========================================================================== */
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+
 }
