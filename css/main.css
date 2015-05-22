@@ -198,9 +198,12 @@ a:hover{
 #donate{
     color:black;
     text-decoration: none;
+    padding: 10px;
+      background: white;
+      display: block;
 }
 #donate img{
-    width:100%;
+    width:90%;
 }
 
 
