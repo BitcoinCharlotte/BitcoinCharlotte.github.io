@@ -178,8 +178,8 @@ a:hover{
     text-decoration:none;
 }
 #logo{
-    width:321px;
-    padding:40px 0;
+    width: 160px;
+    padding: 40px 0px 0px;
 }
 #logo + p{
     max-width: 485px;
