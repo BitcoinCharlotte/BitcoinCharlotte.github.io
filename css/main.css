@@ -182,7 +182,7 @@ a:hover{
     padding: 40px 0px 0px;
 }
 #logo + p{
-    max-width: 485px;
+    max-width: 600px;
     margin: auto;
     color: white;
     font-size: 1.5em;
