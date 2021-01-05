@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Bitcoin Charlotte]]></title>
+    <link href="/briefs/categories/brief.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2021-01-05T00:31:51+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[What is Bitcoin and why does it matter?]]></title>
+            <link href="/briefs/2021/01/04/andreas-antonopoulos/"/>
+            <updated>2021-01-04T00:00:00+00:00</updated>
+            <id>/briefs/2021/01/04/andreas-antonopoulos/</id>
+            <content type="html"><![CDATA[<div class="responsive-embed">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/l1si5ZWLgy0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p>Andreas M. Antonopoulos is one of the most influential speakers and educators early on in the bitcoin space. This video along with <a href="https://aantonop.com/videos/">his thorough series on his website</a> will help you understand why bitcoin is revolutionary and more than just an investment.</p>
+
+<p><a class="cta" href="https://aantonop.com/videos/">Learn More</a></p>
+
+<hr />
+
+<h2 id="the-next-meetup-is-january-19th%2C-2021">The next meetup is January 19th, 2021</h2>
+
+<p><img src="/assets/img/posts/cigar-crypto-chill-loong.jpg" alt="Cigar Crypto Chill" title="Cigar Crypto Chill" /></p>
+
+<p><a class="cta" href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP</a></p>
+
+<hr />
+
+<h2 id="here%2C-enjoy-a-bitcoin-meme%21">Here, enjoy a Bitcoin meme!</h2>
+
+<div class="responsive-embed">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9NUzLF6xGJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+]]></content>
+        </entry>
+    </feed>
