@@ -54,6 +54,7 @@ h2 {
 h3 {
 	font-size: 1.5rem;
 	color: $black;
+	margin-top: 1em;
 }
 
 header {
@@ -276,6 +277,12 @@ footer {
 						text-decoration: none;
 				}
 			}
+			small {
+				color: #dedede !important;
+				a {
+					color: #dedede !important;
+				}
+			}
 		}
 }
 
@@ -323,6 +330,8 @@ footer {
 		animation-iteration-count: infinite;
 		animation-direction: alternate;
 		animation-timing-function: linear; 
+		position: relative;
+		z-index: 10;
 	}
 	.glow-bar-nav {
 		margin-top: 0px;
@@ -335,7 +344,7 @@ footer {
 	    text-align: center;
 		}
 		.navbar-toggler {
-			margin: 24px auto -6px;
+			margin: 24px auto -7px;
 			border-color: transparent !important;
 			padding: 0;
 		}
@@ -345,23 +354,28 @@ footer {
 				background: $gray;
 				color: white;
 				font: $sans-serif-bold;
-				font-size: 20px;
-				padding: 3px 15px 5px;
-				margin: 0 -5px;
+				font-size: 20.8px;
+				padding: 4px 15px 5.5px;
+				margin: 0 -6px;
 				position: relative;
 				top: -10px;
+				span {
+					top: -1px;
+					position: relative;
+					left: -4px;
+				}
 			}
 			.tri {
 				border-color: transparent transparent $gray $gray;
 				border-style: solid;
-				border-width: 32px 0 0 22px;
+				border-width: 34px 0 0 24px;
 				height: 0;
 				width: 0;
 				display: inline-block;
 			}
 			.tri2 {
 				border-color: transparent $gray $gray transparent;
-				border-width: 32px 22px 0 0;
+				border-width: 34px 24px 0 0;
 			}
 		}
 		ul {
@@ -376,6 +390,7 @@ footer {
 				display: block;
 				padding: 10px 0px !important;
 				margin: 0;
+				 font-size: 20px;
 			}
 			li.active {
 				position: relative;

@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc></loc>
-    <lastmod>2021-01-07</lastmod>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>/briefs/2021/01/04/andreas-antonopoulos/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+    <loc>/briefs/2021/01/21/saifedean-ammous/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>/briefs/2021/01/06/andreas-antonopoulos/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
