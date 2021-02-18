@@ -2,12 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc></loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>/briefs/2021/02/11/michael-saylor-interviews-ross-stevens/</loc>
+    <loc>/briefs/2021/02/11/swan-bitcoin/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>/briefs/2021/02/11/michael-saylor-interviews-ross-stevens copy/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
