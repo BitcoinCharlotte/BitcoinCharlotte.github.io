@@ -3,7 +3,7 @@
     <title><![CDATA[Bitcoin Charlotte]]></title>
     <link href="/briefs/tags/intro.xml" rel="self"/>
     <link href="/"/>
-    <updated>2021-04-08T16:01:56+00:00</updated>
+    <updated>2021-04-16T20:31:56+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
@@ -21,15 +21,13 @@
 
 <hr />
 
-<h2 id="the-next-meetup-is-january-19th%2C-2021">The next meetup is January 19th, 2021</h2>
+<h3 id="the-next-meetup-is-january-19th%2C-2021">The next meetup is January 19th, 2021</h3>
 
-<p><img src="/assets/img/posts/cigar-crypto-chill-loong.jpg" alt="Cigar Crypto Chill" title="Cigar Crypto Chill" /></p>
+<h4 id="cigar-crypto-chill">Cigar Crypto Chill</h4>
 
 <p><a class="cta" href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP</a></p>
 
 <hr />
-
-<h2 id="here%2C-enjoy-a-bitcoin-meme%21">Here, enjoy a Bitcoin meme!</h2>
 
 <div class="responsive-embed">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9NUzLF6xGJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

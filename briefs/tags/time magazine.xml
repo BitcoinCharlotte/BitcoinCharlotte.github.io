@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Bitcoin Charlotte]]></title>
+    <link href="/briefs/tags/time magazine.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2021-04-16T20:31:56+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Taproot is the Next Major Upgrade for Bitcoin]]></title>
+            <link href="/briefs/2021/04/16/taproot-bitcoin/"/>
+            <updated>2021-04-16T00:00:00+00:00</updated>
+            <id>/briefs/2021/04/16/taproot-bitcoin/</id>
+            <content type="html"><![CDATA[<p><a href="https://bitcointaproot.cc/"><img src="/assets/img/posts/bitcoin-taproot.jpg" alt="Bitcoin Taproot" title="Bitcoin Taproot" /></a></p>
+
+<h2 id="news">News</h2>
+
+<h3 id="taproot-is-the-next-major-upgrade-for-the-bitcoin-protocol"><a href="https://bitcointaproot.cc/">Taproot is the next major upgrade for the Bitcoin protocol</a></h3>
+
+<p>Taproot was originally proposed in January 2018 by Gregory Maxwell to expand the smart contract abilities of Bitcoin with scalability and privacy in mind. Simply put, Taproot allows one to make a complicated conditional transactions like multisig look like a single normal transaction. This is great for privacy when transacting in Bitcoin!</p>
+
+<h3 id="coinbase-soars-in-market-debut%2C-valued-near-%2486-billion"><a href="https://abcnews.go.com/Business/wireStory/coinbase-digital-currency-exchange-public-77063486">Coinbase soars in market debut, valued near $86 billion</a></h3>
+
+<p>Coinbase was the first exchange to make buying and selling bitcoin simple for the average user and continues to be a leader in the space. Congratulations to what looks like a hugely successful IPO! In addition, <a href="https://www.coindesk.com/coinbase-gifts-100-shares-each-to-1700-employees-ahead-of-public-listing">Coinbase gifts 100 shares to each employee</a>.</p>
+
+<h3 id="time-magazine-to-hold-bitcoin"><a href="https://bitcoinmagazine.com/business/time-magazine-to-hold-bitcoin">TIME Magazine To Hold Bitcoin</a></h3>
+
+<p>TIME Magazine will be paid for a cryptocurrency video project in bitcoin and hold the asset on its balance sheet.</p>
+
+<hr />
+
+<h2 id="upcoming-meetups">Upcoming Meetups</h2>
+
+<h3 id="april-20th%2C-2021---rsvp">April 20th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/276428676/">RSVP</a></h3>
+
+<h4 id="cigar-crypto-%26-chill">Cigar Crypto &amp; Chill</h4>
+
+<h3 id="april-24th%2C-2021---rsvp">April 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277164986/">RSVP</a></h3>
+
+<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
+
+<h3 id="may-8th%2C-2021---rsvp">May 8th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277164991/">RSVP</a></h3>
+
+<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
+
+<hr />
+
+<p><img src="/assets/img/posts/back-to-the-future-explaining-bitcoin.jpg" alt="Back to the Future Explaining Bitcoin" title="Back to the Future Explaining Bitcoin" /></p>
+]]></content>
+        </entry>
+    </feed>
