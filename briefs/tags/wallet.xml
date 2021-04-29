@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Bitcoin Charlotte]]></title>
+    <link href="/briefs/tags/wallet.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2021-04-29T15:26:49+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Blue Wallet]]></title>
+            <link href="/briefs/2021/04/29/blue-wallet/"/>
+            <updated>2021-04-29T00:00:00+00:00</updated>
+            <id>/briefs/2021/04/29/blue-wallet/</id>
+            <content type="html"><![CDATA[<p><a href="https://bluewallet.io/"><img src="/assets/img/posts/bluewallet.jpg" alt="Blue Wallet" title="Blue Wallet" /></a></p>
+
+<p>If you're looking for a Bitcoin only wallet, <a href="https://bluewallet.io/">Blue Wallet</a> is an excellent choice. You can easily create an on-chain Bitcoin wallet and a Lightning compatible wallet. We have been sending tons of lightning transactions at the meetups recently using Blue Wallet and it works great! Note that the Lightning wallet is custodial, so if you want to store your sats long term consider moving them to a more secure location. Remember - Not your keys, not your coins! You can download it for iOS or Android, and it supports a host of other features such as Watch-only, multisig vault, and fake wallets.</p>
+
+<p>If you want to explore some other mobile options for spending and receiving bitcoin conveniently check out <a href="https://samouraiwallet.com/">Samourai</a> for anonymity, <a href="https://breez.technology/">Breez</a> for non-custodial combined on-chain and lightning transactions, and <a href="https://www.exodus.com/">Exodus</a> for altcoins.</p>
+
+<p><a class="cta" href="https://bluewallet.io/">Learn More</a></p>
+
+<hr />
+
+<h2 id="upcoming-meetups">Upcoming Meetups</h2>
+
+<h3 id="may-8th%2C-2021---rsvp">May 8th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277164991/">RSVP</a></h3>
+
+<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
+
+<h3 id="may-18th%2C-2021---rsvp">May 18th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/276428708/">RSVP</a></h3>
+
+<h4 id="cigar-crypto-%26-chill">Cigar Crypto &amp; Chill</h4>
+
+<h3 id="may-22nd%2C-2021---rsvp">May 22nd, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277165000/">RSVP</a></h3>
+
+<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
+
+<p><img src="/assets/img/posts/excuse-me-bitcoin.jpeg" alt="Excuse Me Bitcoin" title="Excuse Me Bitcoin" /></p>
+]]></content>
+        </entry>
+    </feed>
