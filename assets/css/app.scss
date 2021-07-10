@@ -205,6 +205,10 @@ main {
 			max-width: 70%;
 			margin: auto;
 		}
+		.pic-caption span{
+			font: $sans-serif-bold;
+			font-size: 1.3rem;
+		}
 	}
 	hr {
 		margin: 3rem auto;
@@ -409,9 +413,15 @@ footer {
 			max-width: 90%;
 			padding-bottom: 50.7%;
 		}
-		article p {
-			max-width: 90%;
+		article {
+			p {
+				max-width: 90%;
+			}
+			.pic-caption span{
+				font-size: 1rem;
+			}
 		}
+
 	}
 }
 
