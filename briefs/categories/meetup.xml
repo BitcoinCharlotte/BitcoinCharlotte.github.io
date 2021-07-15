@@ -3,9 +3,56 @@
     <title><![CDATA[Bitcoin Charlotte]]></title>
     <link href="/briefs/categories/meetup.xml" rel="self"/>
     <link href="/"/>
-    <updated>2021-07-10T18:21:57+00:00</updated>
+    <updated>2021-07-15T18:03:40+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Trezor Suite]]></title>
+            <link href="/briefs/2021/07/15/trezor-suite/"/>
+            <updated>2021-07-15T00:00:00+00:00</updated>
+            <id>/briefs/2021/07/15/trezor-suite/</id>
+            <content type="html"><![CDATA[<p><a href="https://blog.trezor.io/trezor-suite-launches-8958c1d37d33"><img src="/assets/img/posts/trezor-suite.jpg" alt="Trezor Suite" title="Trezor Suite" /></a></p>
+
+<p>Trezor is one of the most commonly used hardware wallets for securing larger amounts of bitcoin. They recently released a desktop app for safer and easier access to your funds. No more getting nervous typing the wrong url or phishing attacks, just open your desktop app!</p>
+
+<p><a class="cta" href="https://blog.trezor.io/trezor-suite-launches-8958c1d37d33">Check it out!</a></p>
+
+<hr />
+
+<h2 id="upcoming-meetups">Upcoming Meetups</h2>
+
+<div class="row" style="padding-top:20px">
+    <div class="col">
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/279069534/"><img src="/assets/img/posts/isaiah-jackson-why-kids-need-bitcoin.jpg" alt="Why Kids Need Bitcoin w/ Isaiah Jackson" title="Why Kids Need Bitcoin w/ Isaiah Jackson"/></a>
+        <p class="pic-caption">
+            <span>Why Kids Need Bitcoin w/ Isaiah Jackson</span><br>
+            <span>July 28th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069534/">RSVP</a></span><br>
+        </p>
+    </div>
+    <div class="col">
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/279217548/"><img src="/assets/img/posts/what-is-money-david-seroy.jpg" alt="What is Money? w/ David Seroy" title="What is Money? w/ David Seroy"/></a>
+        <p class="pic-caption">
+            <span>What is Money? w/ David Seroy</span><br>
+            <span>August 10th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279217548/">RSVP</a></span><br>
+        </p>
+    </div>
+</div>
+
+<div class="row justify-content-center" style="padding-top:20px">
+    <div class="col-4">
+      <img src="/assets/img/posts/Salty-Parrot-Brewing-Saturday-Sats-Meetup.jpg" class="img-fluid rounded-start" alt="Saturday Sats!" title="Saturday Sats!">
+    </div>
+</div>
+
+<h3 id="saturday-sats%21">Saturday Sats!</h3>
+
+<h4 id="july-24th%2C-2021---rsvp">July 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069006/">RSVP</a></h4>
+
+<h4 id="august-14th%2C-2021---rsvp">August 14th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069229/">RSVP</a></h4>
+
+<hr />
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[Redefining F-You Money (Jameson Lopp)]]></title>
             <link href="/briefs/2021/07/10/redefining-f-you-money/"/>
@@ -23,13 +70,6 @@
 
 <div class="row" style="padding-top:20px">
     <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/279069006/"><img src="/assets/img/posts/Salty-Parrot-Brewing-Saturday-Sats-Meetup.jpg" alt="Saturday Sats!" title="Saturday Sats!"/></a>
-        <p class="pic-caption">
-            <span>Saturday Sats!</span><br>
-            <span>July 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069006/">RSVP</a></span><br>
-        </p>
-    </div>
-    <div class="col">
         <a href="https://www.meetup.com/BitcoinCharlotte/events/279069534/"><img src="/assets/img/posts/isaiah-jackson-why-kids-need-bitcoin.jpg" alt="Why Kids Need Bitcoin w/ Isaiah Jackson" title="Why Kids Need Bitcoin w/ Isaiah Jackson"/></a>
         <p class="pic-caption">
             <span>Why Kids Need Bitcoin w/ Isaiah Jackson</span><br>
@@ -44,6 +84,18 @@
         </p>
     </div>
 </div>
+
+<div class="row justify-content-center" style="padding-top:20px">
+    <div class="col-4">
+      <img src="/assets/img/posts/Salty-Parrot-Brewing-Saturday-Sats-Meetup.jpg" class="img-fluid rounded-start" alt="Saturday Sats!" title="Saturday Sats!">
+    </div>
+</div>
+
+<h3 id="saturday-sats%21">Saturday Sats!</h3>
+
+<h4 id="july-24th%2C-2021---rsvp">July 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069006/">RSVP</a></h4>
+
+<h4 id="august-14th%2C-2021---rsvp">August 14th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069229/">RSVP</a></h4>
 
 <hr />
 ]]></content>
@@ -392,48 +444,6 @@
 <hr />
 
 <p><img src="/assets/img/posts/back-to-the-future-explaining-bitcoin.jpg" alt="Back to the Future Explaining Bitcoin" title="Back to the Future Explaining Bitcoin" /></p>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[PayPal Accepts Bitcoin For Merchant Payment]]></title>
-            <link href="/briefs/2021/04/08/paypal-accepts-bitcoin-merchant-payment/"/>
-            <updated>2021-04-08T00:00:00+00:00</updated>
-            <id>/briefs/2021/04/08/paypal-accepts-bitcoin-merchant-payment/</id>
-            <content type="html"><![CDATA[<p><a href="https://www.nasdaq.com/articles/paypal-accepts-bitcoin-for-merchant-payment-2021-04-05"><img src="/assets/img/posts/paypal-accepts-bitcoin.jpg" alt="Paypal Accepts Bitcoin" title="Paypal Accepts Bitcoin" /></a></p>
-
-<h2 id="news">News</h2>
-
-<h3 id="paypal-accepts-bitcoin-for-merchant-payment"><a href="https://www.nasdaq.com/articles/paypal-accepts-bitcoin-for-merchant-payment-2021-04-05">PayPal Accepts Bitcoin For Merchant Payment</a></h3>
-
-<p>"When a user pays with a crypto asset, PayPal will instantly convert that sum into the corresponding amount of fiat currency, free of charge, and then send this fiat currency to the vendor in exchange for goods or services."</p>
-
-<h3 id="goldman-sachs-is-close-to-offering-bitcoin-and-other-digital-assets-to-its-wealth-management-clients."><a href="https://www.cnbc.com/2021/03/31/bitcoin-goldman-is-close-to-offering-bitcoin-to-its-richest-clients.html">Goldman Sachs is close to offering bitcoin and other digital assets to its wealth management clients.</a></h3>
-
-<p>"The bank aims to begin offering investments in the emerging asset class in the second quarter, according to Mary Rich, who was recently named global head of digital assets for Goldman’s private wealth management division."</p>
-
-<h3 id="sacramento-kings-to-offer-bitcoin-salary-option-to-all-players."><a href="https://www.coindesk.com/sacramento-kings-to-offer-bitcoin-salary-option-to-all-players">Sacramento Kings to Offer Bitcoin Salary Option to All Players.</a></h3>
-
-<h3 id="court-authorizes-service-of-john-doe-summons-seeking-identities-of-u.s.-taxpayers-who-have-used-cryptocurrency."><a href="https://www.justice.gov/opa/pr/court-authorizes-service-john-doe-summons-seeking-identities-us-taxpayers-who-have-used-0">Court Authorizes Service of John Doe Summons Seeking Identities of U.S. Taxpayers Who Have Used Cryptocurrency.</a></h3>
-
-<hr />
-
-<h2 id="upcoming-meetups">Upcoming Meetups</h2>
-
-<h3 id="april-10th%2C-2021---rsvp">April 10th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277164829/">RSVP</a></h3>
-
-<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
-
-<h3 id="april-20th%2C-2021---rsvp">April 20th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/276428676/">RSVP</a></h3>
-
-<h4 id="cigar-crypto-%26-chill">Cigar Crypto &amp; Chill</h4>
-
-<h3 id="april-24th%2C-2021---rsvp">April 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/277164986/">RSVP</a></h3>
-
-<h4 id="afternoon-bitcoin-chat">Afternoon Bitcoin Chat</h4>
-
-<hr />
-
-<p><img src="/assets/img/posts/your-so-lucky.jpeg" alt="You're so Lucky" title="You're so Lucky" /></p>
 ]]></content>
         </entry>
     </feed>
