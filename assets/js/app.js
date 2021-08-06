@@ -11,6 +11,7 @@ require('bootstrap')
 var pathname = window.location.pathname; // Returns path only (/path/example.html)
 window.onload = function() {
 	pathname === '/qr-event-flier1' ? window.location.href = '/events' : '';
+	pathname === '/qr-event-flier2' ? window.location.href = '/events' : '';
 	pathname === '/qr-foam-board1' ? window.location.href = '/' : '';
 	pathname === '/qr-dot-org' ? window.location.href = '/about' : '';
 }
