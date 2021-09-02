@@ -326,6 +326,21 @@ footer {
 }
 
 @media (max-width: 768px) {
+	
+	h1 {
+		font-size: 2rem;
+		padding-bottom: 0.25em;
+	}
+	h2 {
+		font-size: 1.5rem;
+	}
+	h3 {
+		font-size: 1.1rem;
+	}
+	h4 {
+		font-size: 1.1rem;
+	}
+
 	header .welcome {
 		padding: 1.5vh 0 80px;
 	}
@@ -416,10 +431,13 @@ footer {
 		}
 		article {
 			p {
-				max-width: 90%;
+				max-width: 100%;
+			}
+			.pic-caption {
+				text-align: left;
 			}
 			.pic-caption span{
-				font-size: 1rem;
+				font-size: 1.1rem;
 			}
 		}
 
