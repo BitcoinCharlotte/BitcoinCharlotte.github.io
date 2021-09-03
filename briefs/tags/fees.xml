@@ -3,7 +3,7 @@
     <title><![CDATA[Bitcoin Charlotte]]></title>
     <link href="/briefs/tags/fees.xml" rel="self"/>
     <link href="/"/>
-    <updated>2021-09-02T21:30:31+00:00</updated>
+    <updated>2021-09-03T15:54:28+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
@@ -19,43 +19,6 @@
 
 <p><a class="cta" href="https://blog.trezor.io/trezor-suite-launches-8958c1d37d33">Watch the Video</a>
 <a class="cta" href="https://strike.me/">Download Strike</a></p>
-
-<hr />
-
-<h2 id="upcoming-meetups">Upcoming Meetups</h2>
-
-<div class="row" style="padding-top:20px">
-    <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/279069534/"><img src="/assets/img/posts/isaiah-jackson-why-kids-need-bitcoin.jpg" alt="Why Kids Need Bitcoin w/ Isaiah Jackson" title="Why Kids Need Bitcoin w/ Isaiah Jackson"/></a>
-        <p class="pic-caption">
-            <span>Why Kids Need Bitcoin w/ Isaiah Jackson</span><br>
-            <span>July 28th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069534/">RSVP</a></span><br>
-        </p>
-    </div>
-    <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/279217548/"><img src="/assets/img/posts/what-is-money-david-seroy.jpg" alt="What is Money? w/ David Seroy" title="What is Money? w/ David Seroy"/></a>
-        <p class="pic-caption">
-            <span>What is Money? w/ David Seroy</span><br>
-            <span>August 10th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279217548/">RSVP</a></span><br>
-        </p>
-    </div>
-</div>
-
-<div class="row justify-content-center" style="padding-top:20px">
-    <div class="col-4">
-      <img src="/assets/img/posts/Salty-Parrot-Brewing-Saturday-Monthly.jpg" class="img-fluid rounded-start" alt="Saturday Sats!" title="Saturday Sats!">
-    </div>
-</div>
-
-<h3 id="saturday-sats%21">Saturday Sats!</h3>
-
-<h4 id="july-24th%2C-2021---rsvp">July 24th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069006/">RSVP</a></h4>
-
-<h4 id="august-14th%2C-2021---rsvp">August 14th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069229/">RSVP</a></h4>
-
-<h4 id="september-11th%2C-2021---rsvp">September 11th, 2021 - <a href="https://www.meetup.com/BitcoinCharlotte/events/279069233/">RSVP</a></h4>
-
-<hr />
 ]]></content>
         </entry>
     </feed>
