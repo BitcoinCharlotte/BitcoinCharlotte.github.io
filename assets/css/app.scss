@@ -169,8 +169,29 @@ nav.navbar {
 		background: $gray;
 	}
 }
+@keyframes textColorPalette {
+	0% {
+		color: $gray;
+	}
+	33% {
+		color: $purple-blue;
+	}
+	66% {
+		color: $orange;
+	}
+	100% {
+		color: $gray;
+	}
+}
 .glow-bar {
 	animation-name: backgroundColorPalette;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear; 
+}
+.glow-text {
+	animation-name: textColorPalette;
 	animation-duration: 15s;
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
