@@ -266,6 +266,20 @@ main {
 	.pagination-old {
 		float: right;
 	}
+	.book {
+		padding-top: 50px;
+		clear: left;
+		img {
+		    display: block;
+		    width: 250px;
+		    float: left;
+		    margin-top: -50px;
+		}
+
+	}
+	.book + h2 + ul {
+		display: inline-block;
+	}
 }
 
 .article.post {
@@ -276,6 +290,7 @@ main {
 		float:left;
 	}
 }
+
 
 footer {
 		animation-name: backgroundColorPalette;
@@ -460,6 +475,9 @@ footer {
 			.pic-caption span{
 				font-size: 1.1rem;
 			}
+		}
+		.book + h2 {
+			clear: left;
 		}
 
 	}
