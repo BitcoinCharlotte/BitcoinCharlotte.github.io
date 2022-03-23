@@ -14,4 +14,5 @@ window.onload = function() {
 	pathname === '/qr-event-flier2' ? window.location.href = '/events' : ''; // What is Money? David Seroy Flier
 	pathname === '/qr-foam-board1' ? window.location.href = '/' : ''; // Bitcoin Charlotte foam baords
 	pathname === '/qr-dot-org' ? window.location.href = '/about' : ''; // 
+	pathname === '/b4b' ? window.location.href = '/B4B' : ''; // 
 }
