@@ -20,7 +20,12 @@ footer.container {
 	 font-family: "Neufreit";
 	 src: url('/assets/fonts/Neufreit-ExtraBold2.otf') format("opentype");
 }
+@font-face {
+	 font-family: "Halloweek";
+	 src: url('/assets/fonts/halloweek.ttf');
+}
 $sans-serif-bold: 400 1rem 'Neufreit', Arial, Helvetica, sans-serif;
+$hodlween: 400 1rem 'Halloweek', Arial, Helvetica, sans-serif;
 
 $gray: #757575;
 $gray2: #acacac;
@@ -231,6 +236,9 @@ main {
 			font-size: 1.5rem;
 			color: $black;
 		}
+		.row .col:nth-child(2) {
+			padding: 0 1px;
+		}
 	}
 	hr {
 		margin: 3rem auto;
@@ -327,6 +335,142 @@ footer {
 		}
 }
 
+.special-event {
+	h1, h2, h3 {
+		font: $hodlween;
+		font-size: 2em;
+	}
+	background-color: #11051d;
+	.header {
+	    margin: 0 auto;
+		img {
+			max-height: 800px;
+			width: 100%;
+		    max-width: 800px;
+		    display: block;
+		}
+	}
+	main {
+		margin: 0 auto;
+		color: white;
+		text-align: center;
+		font-size: 1.4em;
+	}
+}
+// Fancy button
+.fancybutton {
+  background: linear-gradient(to top, #652e62, #703399);
+  border-radius: 1000px;
+  position: relative;
+  margin: auto;
+  box-shadow: 0px 0px 64px 0px rgba(0,0,0,0.75);
+  display: inline-block;
+}
+
+.fancybutton:after {
+  content: "";
+  height: 1px;
+  position: absolute;
+  left: 15px;
+  bottom: 0px;
+  margin: 0;
+  padding: 0;
+  animation: shadow 4s ease-in infinite;
+}
+
+.fancybutton a {
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 17px 50px;
+  font: $hodlween;
+  font-size: 32px;
+  display: block;
+}
+
+@keyframes shadow {
+  0% {
+    opacity: 0;
+    transform: scaleX(1);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+  10% {
+    opacity: 1;
+    transform: scaleX(1);
+    transform: translateX(25%);
+    width: 70%;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+  30% {
+    opacity: 0;
+    transform: scaleX(1);
+    transform: translateX(80%);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  } 
+  100% {
+    opacity: 0;
+    transform: scaleX(1);
+    transform: translateX(80%);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+}
+
+@keyframes shadow2 {
+    0% {
+    opacity: 0;
+    transform: scaleX(1);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+    10% {
+    opacity: 0;
+    transform: scaleX(1);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+  20% {
+    opacity: 1;
+    transform: scaleX(1);
+    transform: translateX(25%);
+    width: 70%;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+  40% {
+    opacity: 0;
+    transform: scaleX(1);
+    transform: translateX(25%);
+    width: 70%;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(1);
+    transform: translateX(80%);
+    width: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,0));
+  } 
+}
+
+.fancybutton:before {
+  content: "";
+  height: 1px;
+  // width: 260px;
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  margin: 0;
+  padding: 0;
+  animation: shadow2 4s ease-in infinite;
+}
+// Fancy button END
+
+
+
+// MOBILE STUFF
+
 @media (max-width: 1300px) {
 	header {
 		#logo {
@@ -360,6 +504,7 @@ footer {
 		margin-top: -17px;
 	}
 }
+
 
 @media (max-width: 768px) {
 	
@@ -481,5 +626,20 @@ footer {
 		}
 
 	}
+	.special-event {
+		main {
+			font-size: 1em;
+		}
+	}
+	.fancybutton a {
+	  text-align: center;
+	  text-transform: uppercase;
+	  color: #fff;
+	  padding: 17px 50px;
+	  font: $sans-serif-bold;
+	  font-size: 22px;
+	  display: block;
+	}
+
 }
 
