@@ -386,6 +386,9 @@ footer {
   font: $hodlween;
   font-size: 32px;
   display: block;
+  &:hover {
+  	text-decoration: none;
+  }
 }
 
 @keyframes shadow {
