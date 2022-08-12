@@ -624,8 +624,12 @@ footer {
 				font-size: 1.1rem;
 			}
 		}
-		.book + h2 {
-			clear: left;
+		.book {
+			img {
+			    width: 40vw;
+	        margin-top: -9vw;
+			}
+
 		}
 
 	}
