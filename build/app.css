@@ -8996,7 +8996,7 @@ header .welcome {
   font: 400 1rem "Neufreit", Arial, Helvetica, sans-serif;
   font-size: 1.8vw;
   margin: auto;
-  padding: 1.5vh 0 6vw;
+  padding: 1.5vh 0 4vw;
 }
 
 a.cta {
@@ -9120,7 +9120,7 @@ nav.navbar ul li.active .tri2 {
 
 .glow-bar-nav {
   height: 5px;
-  margin-top: -18px;
+  margin-top: 0;
   position: relative;
   z-index: 1;
 }
@@ -9405,7 +9405,7 @@ footer .footer-nav small a {
   }
   .glow-bar-nav {
     height: 5px;
-    margin-top: -17px;
+    margin-top: 0;
   }
 }
 @media (max-width: 768px) {
@@ -9423,7 +9423,7 @@ footer .footer-nav small a {
     font-size: 1.1rem;
   }
   header .welcome {
-    padding: 1.5vh 0 80px;
+    padding: 1.5vh 0 50px;
   }
   .navbar-collapse {
     animation-name: backgroundColorPalette;
