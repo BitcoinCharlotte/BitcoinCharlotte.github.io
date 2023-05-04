@@ -9134,6 +9134,9 @@ nav.navbar ul li.active .tri2 {
   margin: 5em 0 0;
 }
 
+main.Events {
+  text-align: center;
+}
 main article {
   text-align: center;
   margin: 10em 0;
@@ -9302,6 +9305,25 @@ footer .footer-nav small a {
 }
 .fancybutton a:hover {
   text-decoration: none;
+}
+
+.pleb-army {
+  text-align: center;
+}
+.pleb-army a {
+  display: inline-block;
+  text-decoration: none;
+}
+.pleb-army a img {
+  margin: 20px 11px 5px;
+  display: block;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  transition: 0.15s all;
+}
+.pleb-army a:hover img {
+  transform: scale(1.1);
 }
 
 @keyframes shadow {
