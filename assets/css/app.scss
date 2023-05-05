@@ -217,9 +217,11 @@ nav.navbar {
 }	
 
 main {
-	&.Events{
+	&.Events,
+	&.Pleb { // Army Supporters
 		text-align: center;
 	}
+
 	article {
 		text-align: center;
 		margin: 10em 0;
